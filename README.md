@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=F7DF1E&center=true&vCenter=true&width=550&height=70&lines=Hi%2C+I'm+i-am-jester!%3BIndependent+Developer+✨%3BBlurring+Web+%26+Desktop+💻" alt="Typing SVG" />
-</p>
+<div align="center">
+  <h1><code>i-am-jester // Independent Developer</code> 🃏</h1>
+  <p>Building full-cycle software • Blurring the lines between web and desktop</p>
+</div>
 
 <blockquote>
   <p align="center"><h3><em>"My code always tells the truth — usually straight to the console as an <code>Uncaught Error</code>."</em></h3></p>
