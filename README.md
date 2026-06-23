@@ -17,13 +17,11 @@
 
 ### 🎭 Development Philosophy
 
-<details open>
-  <ul>
-    <li><strong>🌐 Web:</strong> Making websites and web apps that don't crash (at least not while you're looking at them).</li>
-    <li><strong>💻 Desktop:</strong> Wrapping ideas into neat interfaces where the "Close" button actually closes the app.</li>
-    <li><strong>🧠 Philosophy:</strong> Code should be clean, design should be minimalist, and bugs should be well-behaved.</li>
-  </ul>
-</details>
+<ul>
+  <li><strong>🌐 Web:</strong> Making websites and web apps that don't crash (at least not while you're looking at them).</li>
+  <li><strong>💻 Desktop:</strong> Wrapping ideas into neat interfaces where the "Close" button actually closes the app.</li>
+  <li><strong>🧠 Philosophy:</strong> Code should be clean, design should be minimalist, and bugs should be well-behaved.</li>
+</ul>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
