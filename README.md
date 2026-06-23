@@ -18,8 +18,6 @@
 ### 🎭 Development Philosophy
 
 <details open>
-  <summary>🌐 <strong>Click to collapse philosophy</strong></summary>
-  <br>
   <ul>
     <li><strong>🌐 Web:</strong> Making websites and web apps that don't crash (at least not while you're looking at them).</li>
     <li><strong>💻 Desktop:</strong> Wrapping ideas into neat interfaces where the "Close" button actually closes the app.</li>
@@ -57,7 +55,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary>📦 <strong>Desktop Development</strong></summary>
   <br>
   <a href="https://www.electronjs.org/"><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" /></a>
@@ -65,7 +63,7 @@
   <a href="https://developer.apple.com/xcode/swiftui/"><img src="https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white" /></a>
 </details>
 
-<details>
+<details open>
   <summary>🚀 <strong>Tools & Environment</strong></summary>
   <br>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
@@ -73,18 +71,6 @@
   <a href="https://developer.apple.com/xcode/"><img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" /></a>
 </details>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</p>
-
-### 🔮 Pick a Card, Any Card...
-<details>
-  <summary>🃏 <strong>Click to draw a card...</strong></summary>
-  <br>
-  <p align="center"><em>"You drew the Joker. It means your next deployment will work on the first try. Or break completely. There is no in-between."</em></p>
-</details>
-
-<br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
