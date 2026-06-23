@@ -6,7 +6,7 @@
   <p align="center"><h3><em>"My code always tells the truth — usually straight to the console as an <code>Uncaught Error</code>."</em></h3></p>
 </blockquote>
 
-<p>On a serious note, I build independent software, juggling technologies to fit any task.<br>I blur the lines between web and desktop, creating full-cycle products.</p>
+<p align="center">On a serious note, I build independent software, juggling technologies to fit any task.<br>I blur the lines between web and desktop, creating full-cycle products.</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
