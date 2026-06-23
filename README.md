@@ -1,4 +1,4 @@
-# Hi, I'm Jester! 🃏
+# Hi, I'm Jester!
 
 > My code always tells the truth — usually straight to the console as an `Uncaught Error`.
 
