@@ -92,8 +92,7 @@
   <summary>🎥 <strong>VIDART: Premium Portfolio Website</strong></summary>
   <br>
   <p>
-    <strong>Portfolio for a Photo & Video Storyteller.</strong> Features a custom 3D interactive coverflow slider, smooth GSAP scroll animations, glassmorphism UI, and a fully responsive design. Deployed automatically via GitHub Actions.
-  </p>
+    <strong>Portfolio for a Photo & Video Storyteller.</strong> Features a custom 3D interactive coverflow slider, smooth GSAP scroll animations, glassmorphism UI, and a fully responsive design.
   <p>
     <a href="https://i-am-jester.github.io/VidArt" target="_blank"><img src="https://img.shields.io/badge/Visit%20Website-F7DF1E?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
   </p>
