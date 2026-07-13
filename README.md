@@ -89,6 +89,24 @@
 </details>
 
 <details open>
+  <summary>🎥 <strong>VIDART: Premium Portfolio Website</strong></summary>
+  <br>
+  <p>
+    <strong>Portfolio for a Photo & Video Storyteller.</strong> Features a custom 3D interactive coverflow slider, smooth GSAP scroll animations, glassmorphism UI, and a fully responsive design. Deployed automatically via GitHub Actions.
+  </p>
+  <p>
+    <a href="https://i-am-jester.github.io/VidArt" target="_blank"><img src="https://img.shields.io/badge/Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  </p>
+  <p>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
+    <a href="https://greensock.com/gsap/"><img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" /></a>
+    <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /></a>
+  </p>
+</details>
+
+<details open>
   <summary>🔮 <strong>More projects coming soon...</strong></summary>
   <br>
   <p><em>"The Jester's lab never sleeps. Crafting innovative utilities, experimental web apps, and next-gen tools that challenge the status quo. Stay tuned — the next trick is already in production."</em></p>
