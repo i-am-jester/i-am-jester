@@ -65,7 +65,16 @@
 </details>
 
 <details open>
-  <summary><img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/11.3.0/googlechrome.svg" width="16" height="16" style="vertical-align: middle; margin-right: 4px;" alt="Chrome" /> <strong>GScreenshot Lite - Screen Capture & Editor</strong></summary>
+<summary>
+  <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" 
+    width="16" 
+    height="16" 
+    style="vertical-align: middle; margin-right: 6px;" 
+    alt="Chrome" 
+  /> 
+  <strong>GScreenshot Lite - Screen Capture & Editor</strong>
+</summary>
   <br>
   <p>
     <strong>Lightweight screenshot & editor for Chrome, saved to Google Drive.</strong> Capture areas of web pages, edit them on the fly, and share links in seconds!
