@@ -89,18 +89,26 @@
 </details>
 
 <details open>
-  <summary>📸 <strong>GScreenshot Lite - Screen Capture & Editor</strong></summary>
+  <summary>🌐 <strong>GScreenshot Lite - Screen Capture & Editor</strong></summary>
   <br>
   <p>
     <strong>Lightweight screenshot & editor for Chrome, saved to Google Drive</strong> Capture areas of web pages, edit them on the fly, and share links in seconds!
   </p>
   <p>
-    <a href="https://chromewebstore.google.com/detail/gscreenshot-lite-screen-c/pjenknjelgbcamhfffplflpdhgffnflg?hl=en&utm_source=github" target="_blank"><img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Web Store" /></a>
+    <a href="https://chromewebstore.google.com/detail/gscreenshot-lite-screen-c/pjenknjelgbcamhfffplflpdhgffnflg?hl=en&utm_source=github" target="_blank">
+      <img src="https://img.shields.io/badge/Chrome_Web_Store-F7DF1E?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Visit Chrome Web Store" />
+    </a>
   </p>
   <p>
-    <a href="https://angular.dev/"><img src="https://img.shields.io/badge/Angular-0F0F11?style=flat-square&logo=angular&logoColor=DD0031" alt="Angular" /></a>
-    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-    <a href="https://developers.google.com/drive"><img src="https://img.shields.io/badge/Google_Drive_API-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="Google Drive API" /></a>
+    <a href="https://angular.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    </a>
+    <a href="https://developers.google.com/drive" target="_blank">
+      <img src="https://img.shields.io/badge/Google_Drive_API-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="Google Drive API" />
+    </a>
   </p>
 </details>
 
