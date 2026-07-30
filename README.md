@@ -27,26 +27,16 @@
 ### 🛠️ Interactive Toolbox
 
 <details open>
-  <summary>🌐 <strong>Web Development</strong></summary>
+  <summary><img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/11.3.0/googlechrome.svg" width="16" height="16" style="vertical-align: middle; margin-right: 4px;" alt="Chrome" /> <strong>GScreenshot Lite - Screen Capture & Editor</strong></summary>
   <br>
   <p>
-    <strong>Languages:</strong><br>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+    <strong>Lightweight screenshot & editor for Chrome, saved to Google Drive.</strong> Capture areas of web pages, edit them on the fly, and share links in seconds!
   </p>
   <p>
-    <strong>Framework & Ecosystem:</strong><br>
-    <a href="https://angular.dev/"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></a>
-    <a href="https://rxjs.dev/"><img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" /></a>
-    <a href="https://material.angular.io/"><img src="https://img.shields.io/badge/Material-3F51B5?style=for-the-badge&logo=angular&logoColor=white" /></a>
-    <a href="https://primeng.org/"><img src="https://img.shields.io/badge/PrimeNG-495057?style=for-the-badge&logo=prime&logoColor=white" /></a>
+    <a href="https://chromewebstore.google.com/detail/gscreenshot-lite-screen-c/pjenknjelgbcamhfffplflpdhgffnflg?hl=en&utm_source=github" target="_blank"><img src="https://img.shields.io/badge/Chrome_Web_Store-F7DF1E?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Visit Chrome Web Store" /></a>
   </p>
   <p>
-    <strong>Styles & Layout:</strong><br>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-    <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass%20%2F%20SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></a>
-    <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
+    <a href="https://angular.dev/" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" /></a> <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a> <a href="https://developers.google.com/drive" target="_blank"><img src="https://img.shields.io/badge/Google_Drive_API-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="Google Drive API" /></a>
   </p>
 </details>
 
