@@ -27,6 +27,30 @@
 ### 🛠️ Interactive Toolbox
 
 <details open>
+  <summary>🌐 <strong>Web Development</strong></summary>
+  <br>
+  <p>
+    <strong>Languages:</strong><br>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  </p>
+  <p>
+    <strong>Framework & Ecosystem:</strong><br>
+    <a href="https://angular.dev/"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></a>
+    <a href="https://rxjs.dev/"><img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" /></a>
+    <a href="https://material.angular.io/"><img src="https://img.shields.io/badge/Material-3F51B5?style=for-the-badge&logo=angular&logoColor=white" /></a>
+    <a href="https://primeng.org/"><img src="https://img.shields.io/badge/PrimeNG-495057?style=for-the-badge&logo=prime&logoColor=white" /></a>
+  </p>
+  <p>
+    <strong>Styles & Layout:</strong><br>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+    <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass%20%2F%20SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></a>
+    <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
+  </p>
+</details>
+
+<details open>
   <summary>💻 <strong>Desktop Development</strong></summary>
   <br>
   <a href="https://www.electronjs.org/"><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" /></a>
