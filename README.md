@@ -61,6 +61,7 @@
 <details open>
   <summary>🚀 <strong>Tools & Environment</strong></summary>
   <br>
+  <a href="https://antigravity.dev/"><img src="https://img.shields.io/badge/Antigravity_IDE-4A90E2?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
   <a href="https://developer.apple.com/xcode/"><img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" /></a>
@@ -73,13 +74,15 @@
 ### 🚀 Featured Projects
 
 <details open>
-  <summary>📸 <strong>GScreenshot: Screenshot Tool</strong></summary>
+  <summary>📸 <strong>GScreenshot: Promo Website & Downloads</strong></summary>
   <br>
   <p>
-    <strong>A smart screenshot tool for macOS and Windows.</strong> Flexible screen capture, built-in editor, and instant uploading to Google Drive or copying to clipboard. Built securely with context isolation.
+    <strong>Official website repository for GScreenshot</strong> — a smart cross-platform screenshot utility for macOS and Windows with Google Drive integration, built-in editing, and context isolation.
   </p>
   <p>
     <a href="https://i-am-jester.github.io/GScreenshot/" target="_blank"><img src="https://img.shields.io/badge/Visit%20Website-F7DF1E?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+    <a href="https://github.com/i-am-jester/GScreenshot/releases/download/v1.3.5/GScreenshot-1.3.5-arm64.dmg" target="_blank"><img src="https://img.shields.io/badge/Download%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" /></a>
+    <a href="https://github.com/i-am-jester/GScreenshot/releases/download/v1.3.5/GScreenshot-Setup-1.3.5.exe" target="_blank"><img src="https://img.shields.io/badge/Download%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
   </p>
   <p>
     <a href="https://www.electronjs.org/"><img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" /></a>
@@ -89,23 +92,24 @@
 </details>
 
 <details open>
-<summary>
-  <img 
-    src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" 
-    width="16" 
-    height="16" 
-    style="vertical-align: middle; margin-right: 6px;" 
-    alt="Chrome" 
-  /> 
-  <strong>GScreenshot Lite - Screen Capture & Editor</strong>
-</summary>
+  <summary>
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" 
+      width="16" 
+      height="16" 
+      style="vertical-align: middle; margin-right: 6px;" 
+      alt="Chrome" 
+    /> 
+    <strong>GScreenshot Lite - Landing Page & Web Store Link</strong>
+  </summary>
   <br>
   <p>
-    <strong>Lightweight screenshot & editor for Chrome, saved to Google Drive.</strong> Capture areas of web pages, edit them on the fly, and share links in seconds!
+    <strong>Showcase website for GScreenshot Lite</strong> — a lightweight Chrome extension for instant web capturing, quick annotations, and cloud exports.
   </p>
   <p>
+    <a href="https://i-am-jester.github.io/GScreenshot/" target="_blank"><img src="https://img.shields.io/badge/Visit%20Website-F7DF1E?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
     <a href="https://chromewebstore.google.com/detail/gscreenshot-lite-screen-c/pjenknjelgbcamhfffplflpdhgffnflg?hl=en&utm_source=github" target="_blank">
-      <img src="https://img.shields.io/badge/Chrome_Web_Store-F7DF1E?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Visit Chrome Web Store" />
+      <img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Chrome Web Store" />
     </a>
   </p>
   <p>
@@ -116,10 +120,43 @@
 </details>
 
 <details open>
+  <summary>🎨 <strong>Scribble: Showcase Website</strong></summary>
+  <br>
+  <p>
+    <strong>Official landing page website for Scribble</strong> — a minimalist digital canvas application built natively for macOS, designed for fast and distraction-free drawing.
+  </p>
+  <p>
+    <a href="https://scribble.iamjester.app/" target="_blank"><img src="https://img.shields.io/badge/Visit%20Website-F7DF1E?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  </p>
+  <p>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
+  </p>
+</details>
+
+<details open>
+  <summary>📋 <strong>MindClip: Product Landing Page</strong></summary>
+  <br>
+  <p>
+    <strong>Official promo website for MindClip</strong> — a premium, sandboxed clipboard manager designed to store code snippets, color palettes, links, and commands securely on local storage.
+  </p>
+  <p>
+    <a href="https://mindclip.iamjester.app/" target="_blank"><img src="https://img.shields.io/badge/Visit%20Website-F7DF1E?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  </p>
+  <p>
+    <a href="https://angular.dev/"><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
+    <a href="https://rxjs.dev/"><img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" /></a>
+  </p>
+</details>
+
+<details open>
   <summary>🎥 <strong>VIDART: Premium Portfolio Website</strong></summary>
   <br>
   <p>
-    <strong>Portfolio for a Photo & Video Storyteller.</strong> Features a custom 3D interactive coverflow slider, smooth GSAP scroll animations, glassmorphism UI, and a fully responsive design.
+    <strong>Portfolio website for a Photo & Video Storyteller.</strong> Features a custom 3D interactive coverflow slider, smooth GSAP scroll animations, glassmorphism UI, and a fully responsive design.
+  </p>
   <p>
     <a href="https://i-am-jester.github.io/VidArt" target="_blank"><img src="https://img.shields.io/badge/Visit%20Website-F7DF1E?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
   </p>
