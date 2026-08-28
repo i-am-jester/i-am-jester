@@ -61,7 +61,7 @@
 <details open>
   <summary>🚀 <strong>Tools & Environment</strong></summary>
   <br>
-  <a href="=https://antigravity.google/product/antigravity-ide"><img src="https://img.shields.io/badge/Antigravity_IDE-4A90E2?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
+  <a href="https://antigravity.google/product/antigravity-ide"><img src="https://img.shields.io/badge/Antigravity_IDE-4A90E2?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
   <a href="https://developer.apple.com/xcode/"><img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" /></a>
